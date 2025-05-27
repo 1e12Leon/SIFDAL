@@ -3,7 +3,7 @@
 <div align="center">
 
 
-## Boost UAV-based Ojbect Detection via Scale-Invariant Feature Disentanglement and Adversarial Learning
+## [Boost UAV-based Ojbect Detection via Scale-Invariant Feature Disentanglement and Adversarial Learning](https://ieeexplore.ieee.org/document/10976665)
 
 [Fan Liu (刘凡)](https://multimodality.group/author/%E5%88%98%E5%87%A1/) ✉ 
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
@@ -27,6 +27,7 @@
 
 # News
 
+- **2025/04/23**: Our paper has been accepted by IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)!
 - **2024/01/17**: We propose a Scale-Invariant Feature Disentanglement and Adversarial Learning method for UAV-OD. Codes and models will be open-sourced at this repository.
 
 
