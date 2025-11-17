@@ -3,7 +3,7 @@
 <div align="center">
 
 
-## [Boost UAV-based Ojbect Detection via Scale-Invariant Feature Disentanglement and Adversarial Learning](https://ieeexplore.ieee.org/document/10976665)
+## [Boost UAV-based Object Detection via Scale-Invariant Feature Disentanglement and Adversarial Learning](https://ieeexplore.ieee.org/document/10976665)
 
 [Fan Liu (刘凡)](https://multimodality.group/author/%E5%88%98%E5%87%A1/) ✉ 
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
@@ -94,7 +94,7 @@ By downloading or using the Dataset, as a Licensee I/we understand, acknowledge,
 
 ```bibtex
 @article{liu2024boost,
-   title={Boost UAV-based Ojbect Detection via Scale-Invariant Feature Disentanglement and Adversarial Learning}, 
+   title={Boost UAV-based Object Detection via Scale-Invariant Feature Disentanglement and Adversarial Learning}, 
    author={Liu, Fan and Yao, Liang and Zhang, Chuanyi and Wu, Ting and Zhang, Xinlei and Jiang, Xiruo and Zhou, Jun},
    journal={arXiv preprint arXiv:2405.15465},
    year={2024} 
